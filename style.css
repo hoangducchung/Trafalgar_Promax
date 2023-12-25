@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Mulish';
-    src: url('/asset/font/Mulish/static/Mulish-Regular.ttf') format('truetype');
+    src: url('./asset/font/Mulish/static/Mulish-Regular.ttf') format('truetype');
 }
 
 * {
